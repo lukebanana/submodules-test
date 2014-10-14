@@ -1,0 +1,7 @@
+/* line 1, ../sass/style.scss */
+body {
+  width: 960px;
+  min-height: 520px;
+  font-size: 12px;
+  font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Helvetica, Arial, sans-serifVerdana, arial, sans-serif;
+}
