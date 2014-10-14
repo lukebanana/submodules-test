@@ -1,0 +1,3 @@
+[submodule "drahts"]
+	path = drahts
+	url = https://github.com/lukebanana/drahtobjekte.git
